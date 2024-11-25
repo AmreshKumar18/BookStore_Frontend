@@ -13,7 +13,7 @@ const Course = () => {
   useEffect(() => {
     const getBook = async () => {
       try {
-        const res = await axios.get("http://localhost:4000/book");
+        const res = await axios.get("https://bookstore-backend-rpgh.onrender.com/book");
         // console.log(res.data);
         setBook(res.data);
         setSearch(res.data);

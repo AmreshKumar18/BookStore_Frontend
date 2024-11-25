@@ -30,7 +30,7 @@ const Contact = () => {
         description: data.description,
       };
       await axios
-        .post("http://localhost:4000/contact", userInfo)
+        .post("https://bookstore-backend-rpgh.onrender.com/contact", userInfo)
         .then((res) => {
           if (res.data) {
             toast.success("Submit Successfully");

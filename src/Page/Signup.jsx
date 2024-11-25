@@ -18,7 +18,7 @@ const Signup = () => {
       password: data.password,
     };
     await axios
-      .post("http://localhost:4000/user/signup", userInfo)
+      .post("https://bookstore-backend-rpgh.onrender.com/user/signup", userInfo)
       .then((res) => {
         // console.log(res.data);
         if (res.data) {

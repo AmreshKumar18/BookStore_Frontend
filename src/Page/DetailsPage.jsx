@@ -11,7 +11,7 @@ const DetailsPage = () => {
       try {
         
         const res = await axios.get(
-          `http://localhost:4000/product-details/${id}`
+          `https://bookstore-backend-rpgh.onrender.com/product-details/${id}`
         );
         setBookDetails(res.data);
       
