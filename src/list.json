@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Dan Brown",
+    "title": "Dan Brown is een Amerikaanse schrijver van thrillers.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/bike-guy-wattpad-book-cover_23-2149452163.jpg?t=st=1713532708~exp=1713536308~hmac=4a0faf8ceefff11111410aff9ec7c7ba2333bd18051f9eea1e962aa4a678ab08&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Sophie Kinsella",
+    "title": "Sophie Kinsella ex-financieel journaliste schri Shopaholic-reeks.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/bike-guy-wattpad-book-cover_23-2149452163.jpg?t=st=1713532708~exp=1713536308~hmac=4a0faf8ceefff11111410aff9ec7c7ba2333bd18051f9eea1e962aa4a678ab08&w=740"
+  },
+  {
+    "id": 3,
+    "name": "Maeve Binchy",
+    "title": "Maeve Binchy was born on 28 May 1940 in Dublin and raised in Dalkey.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/bike-guy-wattpad-book-cover_23-2149452163.jpg?t=st=1713532708~exp=1713536308~hmac=4a0faf8ceefff11111410aff9ec7c7ba2333bd18051f9eea1e962aa4a678ab08&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Dan Brown",
+    "title": "Deception point",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/bike-guy-wattpad-book-cover_23-2149452163.jpg?t=st=1713532708~exp=1713536308~hmac=4a0faf8ceefff11111410aff9ec7c7ba2333bd18051f9eea1e962aa4a678ab08&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Maeve Binchy",
+    "title": "Vrienden voor het leven",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/bike-guy-wattpad-book-cover_23-2149452163.jpg?t=st=1713532708~exp=1713536308~hmac=4a0faf8ceefff11111410aff9ec7c7ba2333bd18051f9eea1e962aa4a678ab08&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Dan Brown",
+    "title": "Deception point",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/bike-guy-wattpad-book-cover_23-2149452163.jpg?t=st=1713532708~exp=1713536308~hmac=4a0faf8ceefff11111410aff9ec7c7ba2333bd18051f9eea1e962aa4a678ab08&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Song Brown",
+    "title": "Deception point",
+    "price": 0,
+    "category": "Song",
+    "image": "https://img.freepik.com/free-vector/bike-guy-wattpad-book-cover_23-2149452163.jpg?t=st=1713532708~exp=1713536308~hmac=4a0faf8ceefff11111410aff9ec7c7ba2333bd18051f9eea1e962aa4a678ab08&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Dan Brown",
+    "title": "Deception point",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/bike-guy-wattpad-book-cover_23-2149452163.jpg?t=st=1713532708~exp=1713536308~hmac=4a0faf8ceefff11111410aff9ec7c7ba2333bd18051f9eea1e962aa4a678ab08&w=740"
+  },
+  {
+    "id": 9,
+    "name": "Food Brown",
+    "title": "Deception point",
+    "price": 0,
+    "category": "Food",
+    "image": "https://img.freepik.com/free-vector/bike-guy-wattpad-book-cover_23-2149452163.jpg?t=st=1713532708~exp=1713536308~hmac=4a0faf8ceefff11111410aff9ec7c7ba2333bd18051f9eea1e962aa4a678ab08&w=740"
+  }
+]
